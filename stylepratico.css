@@ -1,0 +1,18 @@
+
+  h1{
+    font-size: 50px;
+    color: #303030;
+    padding: 15px;
+    color: rgb(229, 243, 36);
+    
+  }
+  
+  h2{
+    font-size: 24px;   
+  }
+
+
+  section, footer{
+    margin: 40px;
+  }
+  
